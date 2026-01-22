@@ -1,3 +1,4 @@
+# EuroSAT Classification with CNN, MLP, and Vision Transformer
 This repository contains a Jupyter notebook created as part of an school project focused on applying different neural network architectures to the EuroSAT dataset.
 
 The notebook explores and compares three model types:
